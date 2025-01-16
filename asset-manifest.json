@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//aakash-patil2002.github.io/student/static/css/main.02bf3748.css",
+    "main.js": "//aakash-patil2002.github.io/student/static/js/main.5105d113.js",
+    "index.html": "//aakash-patil2002.github.io/student/index.html",
+    "main.02bf3748.css.map": "//aakash-patil2002.github.io/student/static/css/main.02bf3748.css.map",
+    "main.5105d113.js.map": "//aakash-patil2002.github.io/student/static/js/main.5105d113.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02bf3748.css",
+    "static/js/main.5105d113.js"
+  ]
+}
